@@ -30,7 +30,7 @@ public class ParadiseInfo {
 		public static double computeDiscountInfo(double pr, double discnt) {
 	double savings;
 	double discount;
-	savings= pr * discount/100;
+	savings= pr * discnt/100;
 	return savings;
 	
 		}
